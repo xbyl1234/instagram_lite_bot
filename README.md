@@ -20,3 +20,16 @@ install mingw64/cgo
 --------------Dot Not Ask Me-------------- 
 
 anything about how to build go project and how to run, or can create account
+
+
+---------------2024---8.27----------------
+
+The project has since been shut down
+
+Now I'm working on a new version of the protocol
+
+New project source code will be charged
+
+This project is very difficult. No novice should buy it
+
+im busy, I do not provide any compilation /bug fix instructions!
