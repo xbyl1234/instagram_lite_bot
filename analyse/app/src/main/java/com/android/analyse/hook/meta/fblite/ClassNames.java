@@ -1,0 +1,86 @@
+package com.android.analyse.hook.meta.fblite;
+
+public class ClassNames {
+    public static String javaSocketWrap;
+    public static String recvQueue;
+    public static String sendQueue;
+    public static String sendMsgDataCld;
+    public static String recvMsg;
+    public static String slicedByteBuffer;
+    public static String sendMsgData;
+    public static String bloksHostingComponent;
+    public static String writeTime;
+    public static String deflaterOutputStream;
+    public static String loadClass;
+    public static String msgDeal0K2;
+    public static String screenClass;
+    public static String screenMsgDeal;
+    public static String parseScreenBase;
+    public static String propertiesStore;
+    public static String witchScreen;
+    public static String unknowScreen0Py;
+    public static String subScreen1;
+    public static String subScreen2;
+    public static String subScreen3;
+    public static String subScreen9;
+    public static String subScreen13;
+    public static String subScreen19;
+    public static String subWrapScreen1;
+    public static String subWrapScreen2;
+    public static String subWrapScreen3;
+    public static String subWrapScreen9;
+    public static String subWrapScreen13;
+    public static String subWrapScreen19;
+    public static String witchScreenClass;
+    public static String windowsMsg;
+    public static String bloksScreen;
+    public static String propStore;
+    public static String screenMsgDeal_0KW;
+    public static String screenDiff;
+    public static String windowManager;
+    public static String imageDownload;
+    public static String Const;
+
+
+    static public void init_401_0_0_14_110_503500325() {
+        loadClass = "X.07S";
+        deflaterOutputStream = "X.0UA";
+        writeTime = "X.0UG";
+        bloksHostingComponent = "X.0da";
+        recvQueue = "X.0MN";
+        sendQueue = "X.0MD";
+        recvMsg = "X.0fh";
+        sendMsgDataCld = "X.0S9";
+        slicedByteBuffer = "X.0Ci";
+        sendMsgData = "X.0Iv";
+        subScreen13 = "";
+        javaSocketWrap = "";
+        msgDeal0K2 = "X.0KO";
+        screenClass = "X.0aK";
+        screenMsgDeal = "X.0aE";
+        parseScreenBase = "X.0kz";
+        propertiesStore = "X.0aB";
+        witchScreen = "X.0aA";
+        unknowScreen0Py = "X.0id";
+        subScreen1 = "X.0aR";
+        subScreen2 = "X.0aD";
+        subScreen3 = "X.0s6";
+        subScreen9 = "X.0rk";
+        subScreen19 = "X.0aS";
+        witchScreenClass = "X.0Zx";
+        windowsMsg = "X.0Ec";
+        bloksScreen = "X.130 ";
+        propStore = "X.0Cc";
+        screenMsgDeal_0KW = "X.0XP";
+        screenDiff = "X.0Dk";
+        windowManager = "com.moblica.common.xmob.ui.WindowManager";
+        imageDownload = "X.0Pc";
+        subWrapScreen1 = "X.0aO";
+        subWrapScreen2 = "X.0a3";
+        subWrapScreen3 = "X.0gZ";
+        subWrapScreen9 = "X.0gX";
+        subWrapScreen13 = "X.0e9";
+        subWrapScreen19 = "X.0aQ";
+        Const = "X.04d";
+    }
+}

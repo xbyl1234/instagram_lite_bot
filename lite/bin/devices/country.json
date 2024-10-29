@@ -1,0 +1,100 @@
+{
+  "au": {
+    "language": [
+      "en"
+    ],
+    "country": "au",
+    "country_cn": "澳大利亚",
+    "timezone": "Australia/Sydney"
+  },
+  "ca": {
+    "language": [
+      "fr",
+      "en"
+    ],
+    "country": "ca",
+    "timezone": "America/Toronto",
+    "country_cn": "加拿大"
+  },
+  "cn": {
+    "language": [
+      "zh"
+    ],
+    "country": "cn",
+    "timezone": "Asia/Shanghai",
+    "country_cn": "中国"
+  },
+  "de": {
+    "language": [
+      "de"
+    ],
+    "country": "de",
+    "timezone": "Europe/Berlin",
+    "country_cn": "德国"
+  },
+  "hk": {
+    "language": [
+      "zh"
+    ],
+    "country": "hk",
+    "timezone": "Asia/Hong_Kong",
+    "country_cn": "香港"
+  },
+  "jp": {
+    "language": [
+      "ja"
+    ],
+    "country": "jp",
+    "timezone": "Asia/Tokyo",
+    "country_cn": "日本"
+  },
+  "sg": {
+    "language": [
+      "en",
+      "zh"
+    ],
+    "country": "sg",
+    "timezone": "Asia/Singapore",
+    "country_cn": "新加坡"
+  },
+  "kr": {
+    "language": [
+      "ko"
+    ],
+    "country": "kr",
+    "timezone": "Asia/Seoul",
+    "country_cn": "韩国"
+  },
+  "tw": {
+    "language": [
+      "zh"
+    ],
+    "country": "tw",
+    "timezone": "Asia/Taipei",
+    "country_cn": "台湾"
+  },
+  "gb": {
+    "language": [
+      "en"
+    ],
+    "country": "gb",
+    "timezone": "Europe/London",
+    "country_cn": "英国"
+  },
+  "us": {
+    "language": [
+      "en"
+    ],
+    "country": "us",
+    "timezone": "America/New_York",
+    "country_cn": "美国"
+  },
+  "in": {
+    "language": [
+      "en"
+    ],
+    "country": "us",
+    "timezone": "America/New_York",
+    "country_cn": "印度"
+  }
+}

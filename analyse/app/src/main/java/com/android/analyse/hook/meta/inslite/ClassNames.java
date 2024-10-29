@@ -1,0 +1,97 @@
+package com.android.analyse.hook.meta.inslite;
+
+public class ClassNames {
+    public static String javaSocketWrap;
+    public static String recvQueue;
+    public static String sendQueue;
+    public static String sendMsgDataCld;
+    public static String recvMsg;
+    public static String slicedByteBuffer;
+    public static String sendMsgData;
+    public static String bloksHostingComponent;
+    public static String writeTime;
+    public static String deflaterOutputStream;
+    public static String loadClass;
+    public static String msgDeal0K2;
+    public static String screenClass;
+    public static String screenMsgDeal;
+    public static String parseScreenBase;
+    public static String propertiesStore;
+    public static String witchScreen;
+    public static String unknowScreen0Py;
+    public static String subScreen1;
+    public static String subScreen2;
+    public static String subScreen3;
+    public static String subScreen9;
+    public static String subScreen13;
+    public static String subScreen19;
+    public static String subWrapScreenImpl;
+    public static String subWrapScreen;
+    public static String subWrapScreen1;
+    public static String subWrapScreen2;
+    public static String subWrapScreen3;
+    public static String subWrapScreen9;
+    public static String subWrapScreen13;
+    public static String subWrapScreen19;
+    public static String witchScreenClass;
+    public static String windowsMsg;
+    public static String bloksScreen;
+    public static String propStore;
+    public static String screenMsgDeal_0KW;
+    public static String screenDiff;
+    public static String windowManager;
+    public static String imageDownload;
+    public static String Const;
+    public static String BaseScreenBean;
+    public static String ScreenDecodeBodyBean;
+    public static String TcpGatewayConnector;
+
+
+    static void init_382_0_0_11_115_538547752() {
+        loadClass = "X.08T";
+        deflaterOutputStream = "X.0gg";
+        writeTime = "X.0gi";
+        bloksHostingComponent = "X.0Sb";
+        recvQueue = "X.0aU";
+        sendQueue = "X.0Kp";
+        recvMsg = "X.0Xv";
+        sendMsgDataCld = "X.0NL";
+        slicedByteBuffer = "X.0CN";
+        javaSocketWrap = "X.15N";
+        sendMsgData = "X.0Ii";
+        msgDeal0K2 = "X.0K2";
+        screenClass = "X.0Sp";
+        screenMsgDeal = "X.0l1";
+        parseScreenBase = "X.0kz";
+        propertiesStore = "X.0CF";
+        witchScreen = "X.0kx";
+        unknowScreen0Py = "X.0QN";
+        subScreen1 = "X.0lG";
+        subScreen2 = "X.0l0";
+        subScreen3 = "X.11E";
+        subScreen9 = "X.0yc";
+        subScreen13 = "X.0zU";
+        subScreen19 = "X.0lH";
+        witchScreenClass = "X.0Pw";
+        windowsMsg = "X.0Ec";
+        bloksScreen = "X.0OQ ";
+        propStore = "X.0CH";
+        screenMsgDeal_0KW = "X.0KW";
+        screenDiff = "X.0DS";
+        windowManager = "com.moblica.common.xmob.ui.WindowManager";
+        imageDownload = "X.0TP";
+        subWrapScreenImpl = "X.0Pt";
+        subWrapScreen = "X.0QC";
+        subWrapScreen1 = "X.0dg";
+        subWrapScreen2 = "X.0Q6";
+        subWrapScreen3 = "X.0di";
+        subWrapScreen9 = "X.0pF";
+        subWrapScreen13 = "X.0Sl";
+        subWrapScreen19 = "X.0eX";
+        Const = "X.050";
+        BaseScreenBean = "X.0Pu";
+        ScreenDecodeBodyBean = "X.0QB";
+        TcpGatewayConnector = "com.facebook.lite.net.TcpGatewayConnector";
+    }
+
+}

@@ -1,0 +1,872 @@
+{
+  "cn": [
+    {
+      "id": "中国联通",
+      "mccmnc": [
+        {
+          "mcc": "460",
+          "mnc": "01",
+          "apn": [
+            "3gnet",
+            "3gwap",
+            "uninet",
+            "3gwap",
+            "uniwap"
+          ]
+        }
+      ],
+      "carrier_id": 1436,
+      "sim_operator_name_cn": "中国联通",
+      "sim_operator_name_en": "China Unicom",
+      "sim_country_iso": "cn",
+      "area_code": "+86",
+      "phone_number_length": 11,
+      "phone_number_pref": [
+        "130",
+        "131",
+        "132",
+        "145",
+        "155",
+        "156",
+        "166",
+        "167",
+        "1704",
+        "1707",
+        "1708",
+        "1709",
+        "171",
+        "176",
+        "185",
+        "186"
+      ]
+    },
+    {
+      "id": "中国移动",
+      "mccmnc": [
+        {
+          "mcc": "460",
+          "mnc": "00",
+          "apn": [
+            "cmnet",
+            "cmwap",
+            "cmwap"
+          ]
+        },
+        {
+          "mcc": "460",
+          "mnc": "02",
+          "apn": [
+            "cmnet",
+            "cmwap",
+            "cmwap"
+          ]
+        },
+        {
+          "mcc": "460",
+          "mnc": "07",
+          "apn": [
+            "cmnet",
+            "cmwap",
+            "cmwap"
+          ]
+        }
+      ],
+      "carrier_id": 1435,
+      "sim_operator_name_cn": "中国移动",
+      "sim_operator_name_en": "China Mobile",
+      "sim_country_iso": "cn",
+      "area_code": "+86",
+      "phone_number_length": 11,
+      "phone_number_pref": [
+        "1340",
+        "1341",
+        "1342",
+        "1343",
+        "1344",
+        "1345",
+        "1346",
+        "1347",
+        "1348",
+        "135",
+        "136",
+        "137",
+        "138",
+        "139",
+        "1440",
+        "147",
+        "148",
+        "150",
+        "151",
+        "152",
+        "157",
+        "158",
+        "159",
+        "1703",
+        "1705",
+        "1706",
+        "1704",
+        "1707",
+        "1708",
+        "1709",
+        "182",
+        "183",
+        "184",
+        "187",
+        "188",
+        "198"
+      ]
+    },
+    {
+      "id": "中国电信",
+      "mccmnc": [
+        {
+          "mcc": "460",
+          "mnc": "03",
+          "apn": [
+            "ctnet",
+            "ctwap"
+          ]
+        }
+      ],
+      "carrier_id": 2237,
+      "sim_operator_name_cn": "中国电信",
+      "sim_operator_name_en": "China Telecom",
+      "sim_country_iso": "cn",
+      "area_code": "+86",
+      "phone_number_length": 11,
+      "phone_number_pref": [
+        "133",
+        "153",
+        "1700",
+        "1701",
+        "1702",
+        "173",
+        "177",
+        "180",
+        "181",
+        "189",
+        "191",
+        "199"
+      ]
+    }
+  ],
+  "hk": [
+    {
+      "id": "中國移動香港 China Mobile HK",
+      "mccmnc": [
+        {
+          "mcc": "454",
+          "mnc": "12",
+          "apn": [
+            "cmhk",
+            "cmhk"
+          ]
+        },
+        {
+          "mcc": "454",
+          "mnc": "13",
+          "apn": [
+            "cmhk",
+            "cmhk"
+          ]
+        }
+      ],
+      "carrier_id": 767,
+      "sim_operator_name_cn": "中國移動香港",
+      "sim_operator_name_en": "China Mobile HK",
+      "sim_country_iso": "hk",
+      "area_code": "+852",
+      "phone_number_length": 8,
+      "phone_number_pref": [
+        "51",
+        "52",
+        "53",
+        "54",
+        "55",
+        "56",
+        "59",
+        "6",
+        "90",
+        "91",
+        "92",
+        "93",
+        "94",
+        "95",
+        "96",
+        "97",
+        "98"
+      ]
+    }
+  ],
+  "tw": [
+    {
+      "id": "亞太電信 Asia Pacific Telecom",
+      "mccmnc": [
+        {
+          "mcc": "466",
+          "mnc": "05",
+          "apn": [
+            "gtnet"
+          ]
+        }
+      ],
+      "carrier_id": 1882,
+      "sim_operator_name_cn": "亞太電信",
+      "sim_operator_name_en": "Asia Pacific Telecom",
+      "sim_country_iso": "tw",
+      "area_code": "+886",
+      "phone_number_length": 9,
+      "phone_number_pref": [
+        "9"
+      ]
+    },
+    {
+      "id": "中華電信_Chunghwa Telecom",
+      "mccmnc": [
+        {
+          "mcc": "466",
+          "mnc": "92",
+          "apn": [
+            "internet",
+            "emome"
+          ]
+        }
+      ],
+      "carrier_id": 1884,
+      "sim_operator_name_cn": "中華電信",
+      "sim_operator_name_en": "Chunghwa Telecom",
+      "sim_country_iso": "tw",
+      "area_code": "+886",
+      "phone_number_length": 9,
+      "phone_number_pref": [
+        "9"
+      ]
+    },
+    {
+      "id": "台灣大哥大 Taiwan Mobile Telecom",
+      "mccmnc": [
+        {
+          "mcc": "466",
+          "mnc": "97",
+          "apn": [
+            "Internet",
+            "MMS"
+          ]
+        }
+      ],
+      "carrier_id": 1888,
+      "sim_operator_name_cn": "台灣大哥大",
+      "sim_operator_name_en": "Taiwan Mobile Telecom",
+      "sim_country_iso": "tw",
+      "area_code": "+886",
+      "phone_number_length": 9,
+      "phone_number_pref": [
+        "9"
+      ]
+    }
+  ],
+  "us": [
+    {
+      "id": "AT&T",
+      "mccmnc": [
+        {
+          "mcc": "310",
+          "mnc": "030",
+          "apn": [
+            "mmswap.centennialwireless.com",
+            "private.centennialwireless.com"
+          ]
+        },
+        {
+          "mcc": "310",
+          "mnc": "170",
+          "apn": [
+            "ims",
+            "isp.cingular",
+            "wap.cingular"
+          ]
+        },
+        {
+          "mcc": "310",
+          "mnc": "280",
+          "apn": [
+            "agms"
+          ]
+        },
+        {
+          "mcc": "310",
+          "mnc": "380",
+          "apn": [
+            "proxy",
+            "proxy",
+            "agms.nl.gmm"
+          ]
+        },
+        {
+          "mcc": "310",
+          "mnc": "410",
+          "apn": [
+            "nxtgenphone",
+            "ims",
+            "phone",
+            "wap.cingular",
+            "PRODATA",
+            "tfdata",
+            "tfdata"
+          ]
+        },
+        {
+          "mcc": "310",
+          "mnc": "560",
+          "apn": [
+            "nxtgenphone",
+            "ims",
+            "dobsoncellularwap"
+          ]
+        }
+      ],
+      "carrier_id": 1187,
+      "sim_operator_name_cn": "AT&T",
+      "sim_operator_name_en": "AT&T",
+      "sim_country_iso": "us",
+      "area_code": "+1",
+      "phone_number_length": 10,
+      "phone_number_pref": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "id": "T-Mobile",
+      "mccmnc": [
+        {
+          "mcc": "310",
+          "mnc": "160",
+          "apn": [
+            "fast.t-mobile.com",
+            "pcweb.tmobile.com",
+            "fast.metropcs.com",
+            "fast.metropcs.com"
+          ]
+        },
+        {
+          "mcc": "310",
+          "mnc": "200",
+          "apn": [
+            "fast.t-mobile.com",
+            "pcweb.tmobile.com",
+            "fast.metropcs.com",
+            "fast.metropcs.com"
+          ]
+        },
+        {
+          "mcc": "310",
+          "mnc": "210",
+          "apn": [
+            "fast.t-mobile.com",
+            "pcweb.tmobile.com",
+            "fast.metropcs.com",
+            "fast.metropcs.com"
+          ]
+        },
+        {
+          "mcc": "310",
+          "mnc": "220",
+          "apn": [
+            "fast.t-mobile.com",
+            "pcweb.tmobile.com",
+            "fast.metropcs.com",
+            "fast.metropcs.com"
+          ]
+        },
+        {
+          "mcc": "310",
+          "mnc": "230",
+          "apn": [
+            "fast.t-mobile.com",
+            "pcweb.tmobile.com",
+            "fast.metropcs.com",
+            "fast.metropcs.com"
+          ]
+        },
+        {
+          "mcc": "310",
+          "mnc": "240",
+          "apn": [
+            "fast.t-mobile.com",
+            "pcweb.tmobile.com",
+            "fast.metropcs.com",
+            "fast.metropcs.com"
+          ]
+        },
+        {
+          "mcc": "310",
+          "mnc": "250",
+          "apn": [
+            "fast.t-mobile.com",
+            "pcweb.tmobile.com",
+            "fast.metropcs.com",
+            "fast.metropcs.com"
+          ]
+        },
+        {
+          "mcc": "310",
+          "mnc": "260",
+          "apn": [
+            "fast.t-mobile.com",
+            "TMUS",
+            "TMUS",
+            "ims",
+            "ims",
+            "h2g2",
+            "fast.metropcs.com",
+            "fast.metropcs.com",
+            "simple",
+            "wap.tracfone",
+            "wap.tracfone",
+            "wholesale"
+          ]
+        },
+        {
+          "mcc": "310",
+          "mnc": "270",
+          "apn": [
+            "fast.t-mobile.com",
+            "pcweb.tmobile.com",
+            "fast.metropcs.com",
+            "fast.metropcs.com"
+          ]
+        },
+        {
+          "mcc": "310",
+          "mnc": "300",
+          "apn": [
+            "fast.t-mobile.com",
+            "pcweb.tmobile.com",
+            "fast.metropcs.com",
+            "fast.metropcs.com",
+            "truphone.com"
+          ]
+        },
+        {
+          "mcc": "310",
+          "mnc": "310",
+          "apn": [
+            "fast.t-mobile.com",
+            "pcweb.tmobile.com",
+            "fast.metropcs.com",
+            "fast.metropcs.com"
+          ]
+        },
+        {
+          "mcc": "310",
+          "mnc": "490",
+          "apn": [
+            "fast.t-mobile.com",
+            "pcweb.tmobile.com",
+            "fast.metropcs.com",
+            "fast.metropcs.com",
+            "good.call",
+            "mms"
+          ]
+        },
+        {
+          "mcc": "310",
+          "mnc": "530",
+          "apn": [
+            "fast.t-mobile.com",
+            "pcweb.tmobile.com",
+            "fast.metropcs.com",
+            "fast.metropcs.com"
+          ]
+        },
+        {
+          "mcc": "310",
+          "mnc": "590",
+          "apn": [
+            "cellular1wap",
+            "fast.t-mobile.com",
+            "pcweb.tmobile.com",
+            "fast.metropcs.com",
+            "fast.metropcs.com"
+          ]
+        },
+        {
+          "mcc": "310",
+          "mnc": "640",
+          "apn": [
+            "fast.t-mobile.com",
+            "pcweb.tmobile.com",
+            "fast.metropcs.com",
+            "fast.metropcs.com"
+          ]
+        },
+        {
+          "mcc": "310",
+          "mnc": "660",
+          "apn": [
+            "fast.t-mobile.com",
+            "pcweb.tmobile.com",
+            "fast.metropcs.com",
+            "fast.metropcs.com"
+          ]
+        },
+        {
+          "mcc": "310",
+          "mnc": "800",
+          "apn": [
+            "fast.t-mobile.com",
+            "pcweb.tmobile.com",
+            "fast.metropcs.com",
+            "fast.metropcs.com"
+          ]
+        }
+      ],
+      "carrier_id": 1,
+      "sim_operator_name_cn": "T-Mobile",
+      "sim_operator_name_en": "T-Mobile",
+      "sim_country_iso": "us",
+      "area_code": "+1",
+      "phone_number_length": 10,
+      "phone_number_pref": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    }
+  ],
+  "au": [
+    {
+      "id": "Telstra",
+      "mccmnc": [
+        {
+          "mcc": "505",
+          "mnc": "01",
+          "apn": [
+            "ims",
+            "telstra.wap",
+            "telstra.mms",
+            "telstra.internet"
+          ]
+        },
+        {
+          "mcc": "505",
+          "mnc": "11",
+          "apn": [
+            "Telstra.mms",
+            "Telstra.wap"
+          ]
+        },
+        {
+          "mcc": "505",
+          "mnc": "71",
+          "apn": [
+            "Telstra.mms",
+            "Telstra.wap"
+          ]
+        },
+        {
+          "mcc": "505",
+          "mnc": "72",
+          "apn": [
+            "Telstra.mms",
+            "Telstra.wap"
+          ]
+        }
+      ],
+      "carrier_id": 1345,
+      "sim_operator_name_cn": "Telstra",
+      "sim_operator_name_en": "Telstra",
+      "sim_country_iso": "au",
+      "area_code": "+61",
+      "phone_number_length": 9,
+      "phone_number_pref": [
+        "4"
+      ]
+    },
+    {
+      "id": "AAPT Ltd.",
+      "mccmnc": [
+        {
+          "mcc": "505",
+          "mnc": "14",
+          "apn": [
+            "vfinternet.au"
+          ]
+        }
+      ],
+      "carrier_id": 1352,
+      "sim_operator_name_cn": "AAPT Ltd.",
+      "sim_operator_name_en": "AAPT Ltd.",
+      "sim_country_iso": "au",
+      "area_code": "+61",
+      "phone_number_length": 9,
+      "phone_number_pref": [
+        "4"
+      ]
+    }
+  ],
+  "ca": [
+    {
+      "id": "Bell Mobility",
+      "mccmnc": [
+        {
+          "mcc": "302",
+          "mnc": "610",
+          "apn": [
+            "pda.bell.ca",
+            "ims"
+          ]
+        }
+      ],
+      "carrier_id": 576,
+      "sim_operator_name_cn": "Bell Mobility",
+      "sim_operator_name_en": "Bell Mobility",
+      "sim_country_iso": "ca",
+      "area_code": "+1",
+      "phone_number_length": 10,
+      "phone_number_pref": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    }
+  ],
+  "de": [
+    {
+      "id": "Airdata AG",
+      "mccmnc": [
+        {
+          "mcc": "262",
+          "mnc": "15",
+          "apn": []
+        }
+      ],
+      "carrier_id": 1460,
+      "sim_operator_name_cn": "Airdata AG",
+      "sim_operator_name_en": "Airdata AG",
+      "sim_country_iso": "de",
+      "area_code": "+49",
+      "phone_number_length": 10,
+      "phone_number_pref": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "id": "Mobilcom Multimedia GmbH",
+      "mccmnc": [
+        {
+          "mcc": "262",
+          "mnc": "13",
+          "apn": []
+        }
+      ],
+      "carrier_id": 1458,
+      "sim_operator_name_cn": "Mobilcom Multimedia GmbH",
+      "sim_operator_name_en": "Mobilcom Multimedia GmbH",
+      "sim_country_iso": "de",
+      "area_code": "+49",
+      "phone_number_length": 10,
+      "phone_number_pref": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    }
+  ],
+  "jp": [
+    {
+      "id": "eMobile",
+      "mccmnc": [
+        {
+          "mcc": "440",
+          "mnc": "00",
+          "apn": [
+            "emb.ne.jp"
+          ]
+        }
+      ],
+      "carrier_id": 1917,
+      "sim_operator_name_cn": "eMobile",
+      "sim_operator_name_en": "eMobile",
+      "sim_country_iso": "jp",
+      "area_code": "+81",
+      "phone_number_length": 10,
+      "phone_number_pref": [
+        "70",
+        "80",
+        "90"
+      ]
+    },
+    {
+      "id": "UQ mobile",
+      "mccmnc": [
+        {
+          "mcc": "440",
+          "mnc": "51",
+          "apn": [
+            "ratel.com"
+          ]
+        }
+      ],
+      "carrier_id": 2110,
+      "sim_operator_name_cn": "UQ mobile",
+      "sim_operator_name_en": "UQ mobile",
+      "sim_country_iso": "jp",
+      "area_code": "+81",
+      "phone_number_length": 10,
+      "phone_number_pref": [
+        "70",
+        "80",
+        "90"
+      ]
+    }
+  ],
+  "sg": [
+    {
+      "id": "M1",
+      "mccmnc": [
+        {
+          "mcc": "525",
+          "mnc": "03",
+          "apn": [
+            "sunsurf",
+            "miworld"
+          ]
+        }
+      ],
+      "carrier_id": 1706,
+      "sim_operator_name_cn": "M1",
+      "sim_operator_name_en": "M1",
+      "sim_country_iso": "SG",
+      "area_code": "+65",
+      "phone_number_length": 8,
+      "phone_number_pref": [
+        "8",
+        "9"
+      ]
+    }
+  ],
+  "kr": [
+    {
+      "id": "SK Telecom",
+      "mccmnc": [
+        {
+          "mcc": "450",
+          "mnc": "05",
+          "apn": [
+            "IMS",
+            "lte.sktelecom.com",
+            "web.sktelecom.com",
+            "lte-roaming.sktelecom.com",
+            "roaming.sktelecom.com"
+          ]
+        }
+      ],
+      "carrier_id": 1891,
+      "sim_operator_name_cn": "SK Telecom",
+      "sim_operator_name_en": "SK Telecom",
+      "sim_country_iso": "kr",
+      "area_code": "+82",
+      "phone_number_length": 10,
+      "phone_number_pref": [
+        "10",
+        "11",
+        "16",
+        "17",
+        "18",
+        "19"
+      ]
+    }
+  ],
+  "gb": [
+    {
+      "id": "O2",
+      "mccmnc": [
+        {
+          "mcc": "234",
+          "mnc": "02",
+          "apn": [
+            "mobile.o2.co.uk",
+            "payandgo.o2.co.uk",
+            "wap.o2.co.uk"
+          ]
+        },
+        {
+          "mcc": "234",
+          "mnc": "10",
+          "apn": [
+            "mobile.o2.co.uk",
+            "wap.o2.co.uk",
+            "payandgo.o2.co.uk",
+            "prepay.tesco-mobile.com",
+            "giffgaff.com",
+            "mobiledata"
+          ]
+        },
+        {
+          "mcc": "234",
+          "mnc": "11",
+          "apn": [
+            "mobile.o2.co.uk",
+            "payandgo.o2.co.uk",
+            "wap.o2.co.uk",
+            "mobile.o2.co.uk",
+            "payandgo.o2.co.uk",
+            "wap.o2.co.uk"
+          ]
+        }
+      ],
+      "carrier_id": 1492,
+      "sim_operator_name_cn": "O2",
+      "sim_operator_name_en": "O2",
+      "sim_country_iso": "gb",
+      "area_code": "+44",
+      "phone_number_length": 10,
+      "phone_number_pref": [
+        "71",
+        "72",
+        "74",
+        "75",
+        "76",
+        "77",
+        "78",
+        "79"
+      ]
+    }
+  ]
+}

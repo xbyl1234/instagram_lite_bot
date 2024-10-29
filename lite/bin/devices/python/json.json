@@ -1,0 +1,1061 @@
+{
+  "props": {
+    "abi_list": "arm64-v8a,armeabi-v7a,armeabi",
+    "abi_list_32": "armeabi-v7a,armeabi",
+    "abi_list_64": "arm64-v8a",
+    "product_board": "lahaina",
+    "product_model": "SM-F711N",
+    "product_brand": "samsung",
+    "product_manufacturer": "samsung",
+    "build_version_release": "13",
+    "build_product": "qssi",
+    "build_id": "TP1A.220624.014",
+    "hardware": "qcom",
+    "product_device": "b2q",
+    "boot_hardware": "qcom",
+    "mediatek_platform": "",
+    "board_platform": "lahaina",
+    "chipname": ""
+  },
+  "features": [
+    {
+      "flags": 0,
+      "name": "android.hardware.sensor.proximity",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.android.sdk.camera.processor",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.feature.aodservice_v10",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.sec.feature.motionrecognition_service",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.telephony.ims.singlereg",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.sensor.accelerometer",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.software.controls",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.faketouch",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.software.telecom",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.feature.audio_listenback",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.telephony.subscription",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.usb.accessory",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.telephony.data",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.software.backup",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.touchscreen",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.touchscreen.multitouch",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.software.print",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.software.activities_on_secondary_displays",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.wifi.rtt",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.feature.SAMSUNG_EXPERIENCE",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.google.android.feature.ACCESSIBILITY_PRELOAD",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.software.voice_recognizers",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.software.picture_in_picture",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.fingerprint",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.android.knox.knoxsdk",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.sensor.gyroscope",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.audio.low_latency",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.software.vulkan.deqp.level",
+      "reqGlEsVersion": 0,
+      "version": 132383489
+    },
+    {
+      "flags": 0,
+      "name": "android.software.cant_save_state",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.security.model.compatible",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.telephony.messaging",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.feature.device_category_phone",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.android.nfc.t4temul",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.telephony.calling",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.opengles.aep",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.sec.feature.sensorhub",
+      "reqGlEsVersion": 0,
+      "version": 29
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.bluetooth",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.feature.audio_fast_listenback",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.software.window_magnification",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.telephony.radio.access",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.camera.autofocus",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.telephony.gsm",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.telephony.ims",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.sec.feature.cocktailpanel",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.software.incremental_delivery",
+      "reqGlEsVersion": 0,
+      "version": 1
+    },
+    {
+      "flags": 0,
+      "name": "android.software.sip.voip",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.se.omapi.ese",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.sec.feature.saccessorymanager",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.feature.samsung_experience_mobile",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.android.camerasdkservice",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.usb.host",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.audio.output",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.software.verified_boot",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.camera.flash",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.camera.front",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.se.omapi.uicc",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.strongbox_keystore",
+      "reqGlEsVersion": 0,
+      "version": 4
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.screen.portrait",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.google.android.feature.ASI",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.nfc",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.google.android.feature.TURBO_PRELOAD",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.feature.ipsgeofence",
+      "reqGlEsVersion": 0,
+      "version": 1
+    },
+    {
+      "flags": 0,
+      "name": "com.nxp.mifare",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.sensor.stepdetector",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.software.home_screen",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "vendor.android.hardware.camera.preview-dis.back",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.microphone",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.feature.aremoji.v2",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.software.autofill",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.android.sdk.camera.processor.effect",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.software.securely_removes_users",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.bluetooth_le",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.sensor.compass",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.touchscreen.multitouch.jazzhand",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.sensor.barometer",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.software.app_widgets",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.software.input_methods",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.sensor.light",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.vulkan.version",
+      "reqGlEsVersion": 0,
+      "version": 4198400
+    },
+    {
+      "flags": 0,
+      "name": "android.software.companion_device_setup",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.feature.galaxyfinder_v7",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.sec.feature.wirelesscharger_authentication",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.software.device_admin",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.wifi.passpoint",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.camera",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.screen.landscape",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.google.android.feature.AER_OPTIMIZED",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.ram.normal",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.feature.samsungpositioning.snlp",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.android.authfw",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.sensor.hinge_angle",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.android.api.version.2402",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.android.api.version.2403",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.android.api.version.2501",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.android.api.version.2502",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.android.api.version.2601",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.android.api.version.2701",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.android.api.version.2801",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.android.api.version.2802",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.android.api.version.2803",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.android.api.version.2901",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.android.api.version.2902",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.android.api.version.2903",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.android.api.version.3001",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.android.api.version.3002",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.android.api.version.3101",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.android.api.version.3201",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.android.api.version.3301",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.android.api.version.3302",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.software.managed_users",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.sec.feature.nsflp",
+      "reqGlEsVersion": 0,
+      "version": 601
+    },
+    {
+      "flags": 0,
+      "name": "android.software.webview",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.sensor.stepcounter",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.camera.capability.manual_post_processing",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.camera.any",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.camera.capability.raw",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.vulkan.compute",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.software.connectionservice",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.touchscreen.multitouch.distinct",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.location.network",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.sec.android.secimaging",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.software.cts",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.software.sip",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.camera.capability.manual_sensor",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.software.app_enumeration",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.camera.level.full",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.sec.feature.usb_authentication",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.wifi.direct",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.software.live_wallpaper",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.sec.feature.pocketmode",
+      "reqGlEsVersion": 0,
+      "version": 312
+    },
+    {
+      "flags": 0,
+      "name": "android.software.ipsec_tunnels",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.software.freeform_window_management",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.nfc.hcef",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.nfc.uicc",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.feature.support_repair_mode",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.location.gps",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.android.camera.deviceinjector",
+      "reqGlEsVersion": 0,
+      "version": 2
+    },
+    {
+      "flags": 0,
+      "name": "android.software.midi",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.feature.samsungpositioning",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.nfc.any",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.nfc.ese",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.nfc.hce",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.hardware_keystore",
+      "reqGlEsVersion": 0,
+      "version": 4
+    },
+    {
+      "flags": 0,
+      "name": "com.sec.feature.pocketsensitivitymode",
+      "reqGlEsVersion": 0,
+      "version": 2
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.wifi",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.location",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.vulkan.level",
+      "reqGlEsVersion": 0,
+      "version": 1
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.android.cameraxservice",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.android.knox.knoxsdk.api.level.33",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.android.knox.knoxsdk.api.level.34",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.android.knox.knoxsdk.api.level.35",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.samsung.android.knox.knoxsdk.api.level.36",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.wifi.aware",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.software.secure_lock_screen",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.biometrics.face",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.hardware.telephony",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "com.sec.android.smartface.smart_stay",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "name": "android.software.file_based_encryption",
+      "reqGlEsVersion": 0,
+      "version": 0
+    },
+    {
+      "flags": 0,
+      "reqGlEsVersion": 196610,
+      "version": 0
+    }
+  ],
+  "configuration": {
+    "colorMode": 5,
+    "densityDpi": 360,
+    "fontScale": 2.0,
+    "fontWeightAdjustment": 0,
+    "hardKeyboardHidden": 2,
+    "keyboard": 1,
+    "keyboardHidden": 1,
+    "navigation": 1,
+    "navigationHidden": 2,
+    "orientation": 1,
+    "screenHeightDp": 800,
+    "screenLayout": 268435810,
+    "screenWidthDp": 360,
+    "touchscreen": 3,
+    "uiMode": 17
+  },
+  "configuration_info": {
+    "reqTouchScreen": 3,
+    "reqKeyboardType": 1,
+    "reqNavigation": 1,
+    "reqInputFeatures": 0,
+    "reqGlEsVersion": 196610
+  },
+  "cpus": [
+    {
+      "min_frequency": 300000,
+      "max_frequency": 1804800
+    },
+    {
+      "min_frequency": 300000,
+      "max_frequency": 1804800
+    },
+    {
+      "min_frequency": 300000,
+      "max_frequency": 1804800
+    },
+    {
+      "min_frequency": 300000,
+      "max_frequency": 1804800
+    },
+    {
+      "min_frequency": 710400,
+      "max_frequency": 2419200
+    },
+    {
+      "min_frequency": 710400,
+      "max_frequency": 2419200
+    },
+    {
+      "min_frequency": 710400,
+      "max_frequency": 2419200
+    },
+    {
+      "min_frequency": 844800,
+      "max_frequency": 2841600
+    }
+  ],
+  "activity_memory": {
+    "totalMem": 7747059712,
+    "availMem": 1948762112,
+    "threshold": 408944640,
+    "lowMemory": false
+  },
+  "pkg_infos": {
+    "launcher_pkg_name": "com.sec.android.gallery3d",
+    "home_pkg_name": "com.sec.android.app.launcher"
+  },
+  "env": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-F711N Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.210 Mobile Safari/537.36"
+  },
+  "phone": {
+    "phone_type": 1
+  },
+  "window_size": {
+    "density_dpi": 360,
+    "width": 1080,
+    "height": 2640,
+    "status_bar": 0,
+    "navigation_bar": 0,
+    "refresh_rate": 60.000004,
+    "scale": 2.25,
+    "xdpi": 321.0,
+    "ydpi": 318.0
+  },
+  "android_sdk_int": "33"
+}
