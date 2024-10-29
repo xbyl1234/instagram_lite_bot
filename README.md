@@ -33,3 +33,9 @@ New project source code will be charged
 This project is very difficult. No novice should buy it
 
 im busy, I do not provide any compilation /bug fix instructions!
+
+---------------2024---10.29----------------
+It really is shit.
+
+Why don't i use this time to invite many girls 
+
